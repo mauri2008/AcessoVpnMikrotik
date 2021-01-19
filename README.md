@@ -1,2 +1,2 @@
 # AcessoVpnMikrotik
- Apliação para minutorar usuario logado na VPN via Mikrotik
+ Apliação para monitorar usuario logado na VPN via Mikrotik, utilizando APP MT_Syslog 
